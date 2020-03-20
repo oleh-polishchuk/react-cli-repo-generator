@@ -5,8 +5,6 @@ This script will generate for you your own react cli tool.
 
 Generate your own repo with this command:
 
-    curl -s -L https://gist.githubusercontent.com/oleh-polishchuk/5604615/raw | bash -s my-project-name
+    curl -s -L https://raw.githubusercontent.com/oleh-polishchuk/react-cli-repo-generator/master/index.sh | bash -s my-project-name
 
 , where `my-project-name` is your project name. Feel free to replace it with your own project name.
-
-
